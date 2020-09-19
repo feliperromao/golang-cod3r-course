@@ -9,7 +9,7 @@ func notaParaConceito(nota float64) string {
 		return "B"
 	} else if nota >= 6 && nota < 8 {
 		return "C"
-	} else if nota >= 3 && nota < 5 {
+	} else if nota >= 3 && nota < 6 {
 		return "D"
 	} else {
 		return "E"
