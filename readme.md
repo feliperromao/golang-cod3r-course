@@ -15,3 +15,8 @@ go build entrypoint.go
 ```sh
 go run entrypoint.go
 ```
+
+> Baixando um pacote de um repositorio remoto
+```sh
+go get -u github.com/feliperromao/goarea
+```
